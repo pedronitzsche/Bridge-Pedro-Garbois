@@ -1,0 +1,8 @@
+Bridge\Relatorio.class
+Bridge\RelatorioFinanceiro.class
+Bridge\RelatorioEstoque.class
+Bridge\FormatoHTML.class
+Bridge\RelatorioVendas.class
+Bridge\FormatoRelatorio.class
+Bridge\FormatoCSV.class
+Bridge\FormatoPDF.class
